@@ -32,8 +32,8 @@ Clone the Repository:
 Bash
 git clone https://github.com/koshtianjali98/Archvision-3D.git
 cd Archvision-3D
-Install Dependencies:
 
+Install Dependencies:
 Bash
 pip install -r requirements.txt
 Run the Application:
